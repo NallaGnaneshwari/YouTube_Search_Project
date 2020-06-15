@@ -1,0 +1,48 @@
+.footer-style {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+}
+
+.footer-pagenumber-text {
+    font-size: 1.5em;
+    margin-left: 10px;
+}
+
+.footer-input {
+    height: 30px;
+    width: 50px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.footer-navigation-button {
+    padding: 10px;
+    margin: 10px;
+}
+
+i {
+    border: solid white;
+    border-width: 0px 6px 6px 0;
+    display: inline-block;
+    padding: 10px;
+    
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    margin-left: 5px;
+}
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    margin-right: 5px;
+}

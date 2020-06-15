@@ -1,0 +1,29 @@
+{
+  "name": "youtubetask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bob_teja@bitbucket.org/bob_teja/youtubetask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bob_teja/youtubetask#readme",
+  "devDependencies": {
+    "karma": "^4.0.0"
+  },
+  "dependencies": {
+    "fetch-mock": "^7.3.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.2",
+    "karma-html": "^1.0.5",
+    "karma-jasmine": "^2.0.1"
+  }
+}

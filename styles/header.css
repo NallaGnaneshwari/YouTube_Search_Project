@@ -1,0 +1,62 @@
+.header-style {
+    /* background: #A7CDBD; */
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 80px; 
+    background-image: url("../images/netflix.jpg")
+}
+
+.heading-message {
+    color: yellow;
+    font-size: 2em;
+}
+
+.search-button {
+    margin-left: 20px;
+}
+
+.header-desc {
+    background-color: black;
+    padding: 10px;
+}
+
+.header-total-items {
+    text-align: left;
+    color: white;
+    margin-left: 20px;
+}
+
+.header-showing {
+    color: white;
+    margin-left: 20px;
+}
+
+.error-display-black {
+    color: red;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+#search-bar {
+    height: 5%;
+    width: 20%;
+    border-radius: 8px;
+    /* background: white; */
+    border-color: white;
+    font-size: 1.25em;
+    padding-left: 15px;
+}
+
+#search-button {
+    height: 5%;
+    width: 4%;
+    border-radius: 8px;
+    background: blue;
+    border-color: blue;
+    color: white;
+}
+
+/* #search-bar::placeholder {
+    
+    font-size: 2em;
+} */
