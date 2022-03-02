@@ -17,7 +17,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/bob_teja/youtubetask#readme",
   "devDependencies": {
-    "karma": "^4.0.0"
+    "karma": "^6.3.16"
   },
   "dependencies": {
     "fetch-mock": "^7.3.0",
